@@ -4,16 +4,6 @@ public class Concesionaria {
 
     public static void main(String[] args) {
         // TODO code application logic here
-    int Sedán_Económico;
-    int Sedán;
-    int Deportivo;
-    int Híbrido;
-    int Coupe;
-    int Coupe_Deportivo;
-    int Compacto;
-    int Hatchback;
-    int Económico_versión_Rally;
-
         boolean salir = false;
         boolean vehiculo=false;
         int opcion;
